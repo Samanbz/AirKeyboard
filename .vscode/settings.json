@@ -1,0 +1,15 @@
+{
+  // Set Black as the default formatter for Python files
+
+  // Enable format on save for Python files
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.formatOnSave": true
+  },
+
+  // Optional: Also enable format on save for Jupyter Notebooks
+  "[jupyter]": {
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.formatOnSave": true
+  }
+}
