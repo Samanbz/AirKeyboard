@@ -1,3 +1,13 @@
 
 *.csv
 .venv/
+wandb/
+runs/
+data/
+*.hd5
+*.h5
+*.pth
+*.parquet
+*.csv
+*.pkl
+*.pyc
